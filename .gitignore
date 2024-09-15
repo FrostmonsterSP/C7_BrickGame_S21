@@ -1,0 +1,76 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Clangd chache
+*.idx
+
+# GCC objects output
+*.o
+objects/
+libs/
+
+# Report output
+report/
+
+# Doxygen documentation
+src/docs/html/
+src/docs/man/
+
+# Executables
+s21_brick_game
+test
+
+# Misc
+src/compile_commands.json
+.vscode/
+src/.vscode/
