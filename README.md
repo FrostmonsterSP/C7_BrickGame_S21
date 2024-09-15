@@ -108,13 +108,11 @@ pip install gcovr
 
 ## Контакты
 
-@author Алексей aka Sharlabr
-
 - **Школа21**: Sharlabr
 - **GitHub**: [FrostmonsterSP](https://github.com/FrostmonsterSP)
 - **Telegram**: [frostmonster](https://t.me/frostmonster)
 
-@date Сентябрь 2024г.
+**Сентябрь 2024г.**
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
