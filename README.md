@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="doc/image/screenshot.png" alt="Скриншот" height="150px" width="150px" style = "padding:10px;">
+<img src="doc/image/screenshot.png" alt="Скриншот" style = "padding:10px;">
 
 </div>
 
