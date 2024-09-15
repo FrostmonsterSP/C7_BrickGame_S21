@@ -8,14 +8,16 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-    <img src="doc/image/logo.svg" alt="Logo" style = "filter: drop-shadow(0 0 4px var(--page-foreground-color)); max-height: 150px; padding:10px;">
+    <img src="doc/image/logo.svg" alt="Logo" height="150px" width="150px" style = "filter: drop-shadow(0 0 4px var(--page-foreground-color)); max-height: 150px; padding:10px;">
     <p align="center">Реализация классической игры тетрис для проекта *C7_BrickGame_v1.0*</p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## О проекте
 
+<div align="center">
 ![Скриншот][product-screenshot]
+</div>
 
 Этот проект представляет собой консольную версию классической игры "Тетрис", реализованную на языке C (стандарт C11) в рамках учебного задания. Основная цель проекта — закрепление знаний и навыков программирования путём создания игры с использованием библиотеки ncurses для отрисовки консольного интерфейса.
 
