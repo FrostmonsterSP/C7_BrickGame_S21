@@ -4,11 +4,11 @@
 <!-- https://github.com/othneildrew/Best-README-Template -->
 <!-- "Best-README-Template" distributed under the MIT License. See https://github.com/othneildrew/Best-README-Template/blob/main/LICENSE.txt for more information. -->
 
-[TOC]
+<!-- [TOC] -->
 
 <!-- PROJECT LOGO -->
 <div align="center">
-    <img src="logo.svg" alt="Logo" style = "filter: drop-shadow(0 0 4px var(--page-foreground-color)); max-height: 150px; padding:10px;">
+    <img src="doc/image/logo.svg" alt="Logo" style = "filter: drop-shadow(0 0 4px var(--page-foreground-color)); max-height: 150px; padding:10px;">
     <p align="center">Реализация классической игры тетрис для проекта *C7_BrickGame_v1.0*</p>
 </div>
 
@@ -116,7 +116,7 @@ pip install gcovr
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: screenshot.png
+[product-screenshot]: doc/image/screenshot.png
 [doxygen-releases]: https://github.com/doxygen/doxygen/releases/
 [doxygen-site]: www.doxygen.nl
 [gcovr-site]: https://gcovr.com/
