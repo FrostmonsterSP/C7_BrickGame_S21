@@ -4,20 +4,18 @@
 <!-- https://github.com/othneildrew/Best-README-Template -->
 <!-- "Best-README-Template" distributed under the MIT License. See https://github.com/othneildrew/Best-README-Template/blob/main/LICENSE.txt for more information. -->
 
+[TOC]
+
 <!-- PROJECT LOGO -->
 <div align="center">
-    <img src="doc/image/logo.svg" alt="Logo" height="150px" width="150px" style = "filter: drop-shadow(0 0 4px var(--page-foreground-color)); max-height: 150px; padding:10px;">
+    <img src="logo.svg" alt="Logo" style = "filter: drop-shadow(0 0 4px var(--page-foreground-color)); max-height: 150px; padding:10px;">
     <p align="center">Реализация классической игры тетрис для проекта *C7_BrickGame_v1.0*</p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## О проекте
 
-<div align="center">
-
-<img src="doc/image/screenshot.png" alt="Скриншот" height="150px" width="150px" style = "padding:10px;">
-
-</div>
+![Скриншот][product-screenshot]
 
 Этот проект представляет собой консольную версию классической игры "Тетрис", реализованную на языке C (стандарт C11) в рамках учебного задания. Основная цель проекта — закрепление знаний и навыков программирования путём создания игры с использованием библиотеки ncurses для отрисовки консольного интерфейса.
 
@@ -118,7 +116,7 @@ pip install gcovr
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: doc/image/screenshot.png
+[product-screenshot]: screenshot.png
 [doxygen-releases]: https://github.com/doxygen/doxygen/releases/
 [doxygen-site]: www.doxygen.nl
 [gcovr-site]: https://gcovr.com/
